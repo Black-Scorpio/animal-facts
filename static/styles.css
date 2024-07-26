@@ -1,0 +1,61 @@
+body {
+    background-color: #fffaee;
+    color: #343a40;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, .page-title {
+    font-family: 'Lobster', cursive;
+    color: #8a5a44;
+    text-shadow: 2px 2px 4px #ffffff;
+}
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid #e0d4c3;
+}
+
+.card-title {
+    font-size: 1.5em;
+    color: #8a5a44;
+}
+
+.card-text {
+    font-size: 1.1em;
+    color: #555;
+}
+
+.btn-primary {
+    background-color: #8a5a44;
+    border-color: #8a5a44;
+}
+
+.btn-primary:hover {
+    background-color: #6e4535;
+    border-color: #6e4535;
+}
+
+.form-label {
+    color: #8a5a44;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+
+.spinner-border {
+    color: #8a5a44;
+}
+
+.loading-spinner {
+    display: none;
+    margin: auto;
+}
+
+#spinner {
+    display: none;
+}
